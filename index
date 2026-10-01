@@ -18,212 +18,119 @@
     <![endif]-->
     
     <style>
-        @media only screen and (max-width: 600px) {
-            .container { width: 100% !important; }
-            .mobile-padding { padding-left: 20px !important; padding-right: 20px !important; }
-            .mobile-stack { display: block !important; width: 100% !important; }
-            .mobile-center { text-align: center !important; }
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        img {
+            border: 0;
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+        table {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        @media only screen and (max-width: 650px) {
+            .container {
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+            .img-max {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
+            }
         }
     </style>
 </head>
 <body style="margin: 0; padding: 0; background-color: #ffffff; font-family: Arial, sans-serif;">
-    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #ffffff; max-width: 650px; margin: 0 auto;">
-        
-        <!-- Header Logos -->
+    
+    <!-- Main Container -->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #ffffff;">
         <tr>
-            <td align="center" style="padding: 30px 40px 20px 40px;" class="mobile-padding">
-                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_01.jpg" alt="HELP AG NETSCOUT" width="400" style="display: block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;">
-            </td>
-        </tr>
-        
-        <!-- Executive Roundtable Title -->
-        <tr>
-            <td align="left" style="padding: 10px 40px 10px 40px;" class="mobile-padding">
-                <p style="margin: 0; font-size: 14px; color: #333333; text-transform: uppercase; letter-spacing: 1px;">EXECUTIVE ROUNDTABLE</p>
-            </td>
-        </tr>
-        
-        <!-- Main Title -->
-        <tr>
-            <td align="left" style="padding: 10px 40px 20px 40px;" class="mobile-padding">
-                <h1 style="margin: 0; font-size: 42px; line-height: 48px; color: #e31e24; font-weight: bold;">DDoS Resilience</h1>
-                <h2 style="margin: 0; font-size: 42px; line-height: 48px; color: #000000; font-weight: bold;">Beyond Bandwidth</h2>
-            </td>
-        </tr>
-        
-        <!-- Description -->
-        <tr>
-            <td align="left" style="padding: 10px 40px 30px 40px;" class="mobile-padding">
-                <p style="margin: 0; font-size: 16px; line-height: 24px; color: #333333;">An executive conversation on strengthening the availability of critical services against persistent, adaptive and multi-vector DDoS attacks.</p>
-            </td>
-        </tr>
-        
-        <!-- Network Diagram -->
-        <tr>
-            <td align="center" style="padding: 20px 40px 30px 40px;" class="mobile-padding">
-                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_03.jpg" alt="Network Diagram" width="570" style="display: block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%;">
-            </td>
-        </tr>
-        
-        <!-- Statistics Section -->
-        <tr>
-            <td align="center" style="padding: 30px 40px 30px 40px;" class="mobile-padding">
-                <p style="margin: 0 0 10px 0; font-size: 16px; color: #333333;">Longest DDoS Attack Observed in H1 2026</p>
-                <h3 style="margin: 0; font-size: 48px; line-height: 54px; color: #e31e24; font-weight: bold;">58 days 23 hours</h3>
-                <p style="margin: 15px 0 0 0; font-size: 14px; color: #666666;">236,560 attacks &nbsp;•&nbsp; 91% low-volume &nbsp;•&nbsp; 70% multi-vector</p>
-            </td>
-        </tr>
-        
-        <!-- Roundtable Focus Section -->
-        <tr>
-            <td style="padding: 30px 40px 30px 40px;" class="mobile-padding">
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tr>
-                        <td colspan="2" style="padding-bottom: 25px;">
-                            <h4 style="margin: 0; font-size: 20px; color: #e31e24; font-weight: bold;">Roundtable Focus</h4>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td width="50%" valign="top" class="mobile-stack" style="padding-bottom: 20px;">
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                <tr>
-                                    <td valign="top" style="padding-right: 15px;">
-                                        <span style="display: inline-block; width: 35px; height: 35px; background-color: #e31e24; color: #ffffff; text-align: center; line-height: 35px; font-size: 18px; font-weight: bold; border-radius: 50%;">01</span>
-                                    </td>
-                                    <td valign="middle">
-                                        <p style="margin: 0; font-size: 16px; color: #333333;">Look Beyond Attack Volume</p>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                        <td width="50%" valign="top" class="mobile-stack" style="padding-bottom: 20px;">
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                <tr>
-                                    <td valign="top" style="padding-right: 15px;">
-                                        <span style="display: inline-block; width: 35px; height: 35px; background-color: #e31e24; color: #ffffff; text-align: center; line-height: 35px; font-size: 18px; font-weight: bold; border-radius: 50%;">02</span>
-                                    </td>
-                                    <td valign="middle">
-                                        <p style="margin: 0; font-size: 16px; color: #333333;">Understand Modern Attack Techniques</p>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td width="50%" valign="top" class="mobile-stack" style="padding-bottom: 20px;">
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                <tr>
-                                    <td valign="top" style="padding-right: 15px;">
-                                        <span style="display: inline-block; width: 35px; height: 35px; background-color: #e31e24; color: #ffffff; text-align: center; line-height: 35px; font-size: 18px; font-weight: bold; border-radius: 50%;">03</span>
-                                    </td>
-                                    <td valign="middle">
-                                        <p style="margin: 0; font-size: 16px; color: #333333;">Build Resilience Beyond Bandwidth</p>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                        <td width="50%" valign="top" class="mobile-stack" style="padding-bottom: 20px;">
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                <tr>
-                                    <td valign="top" style="padding-right: 15px;">
-                                        <span style="display: inline-block; width: 35px; height: 35px; background-color: #e31e24; color: #ffffff; text-align: center; line-height: 35px; font-size: 18px; font-weight: bold; border-radius: 50%;">04</span>
-                                    </td>
-                                    <td valign="middle">
-                                        <p style="margin: 0; font-size: 16px; color: #333333;">Turn Resilience Into Practice</p>
-                                    </td>
-                                </tr>
-                            </table>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        
-        <!-- Choose Your Roundtable Section -->
-        <tr>
-            <td style="padding: 30px 40px 30px 40px;" class="mobile-padding">
-                <h4 style="margin: 0 0 20px 0; font-size: 20px; color: #e31e24; font-weight: bold;">Choose Your Roundtable</h4>
+            <td align="center" style="padding: 0;">
                 
-                <!-- Abu Dhabi Event Card -->
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 1px solid #e0e0e0; border-radius: 8px;">
+                <!-- Email Container - 650px width -->
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="650" class="container" style="width: 650px; max-width: 650px; margin: 0 auto;">
+                    
+                    <!-- Image 01 - Header Logos -->
                     <tr>
-                        <td width="45%" valign="top" class="mobile-stack">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_06.jpg" alt="Abu Dhabi Venue" width="250" style="display: block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border-radius: 8px 0 0 8px; max-width: 100%;">
-                        </td>
-                        <td width="55%" valign="middle" class="mobile-stack" style="padding: 25px 25px 25px 20px;">
-                            <h5 style="margin: 0 0 15px 0; font-size: 18px; color: #e31e24; font-weight: bold;">Abu Dhabi</h5>
-                            <table role="presentation" cellspacing="0" cellpadding="0" border="0">
-                                <tr>
-                                    <td valign="top" style="padding-bottom: 10px;">
-                                        <span style="color: #e31e24; font-size: 14px;">📅</span>
-                                    </td>
-                                    <td style="padding-left: 10px; padding-bottom: 10px;">
-                                        <p style="margin: 0; font-size: 14px; color: #333333;">8 October 2026</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td valign="top" style="padding-bottom: 10px;">
-                                        <span style="color: #e31e24; font-size: 14px;">🕐</span>
-                                    </td>
-                                    <td style="padding-left: 10px; padding-bottom: 10px;">
-                                        <p style="margin: 0; font-size: 14px; color: #333333;">9:30am – 1:30pm</p>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td valign="top">
-                                        <span style="color: #e31e24; font-size: 14px;">📍</span>
-                                    </td>
-                                    <td style="padding-left: 10px;">
-                                        <p style="margin: 0; font-size: 14px; color: #333333;">Rixos Abu Dhabi</p>
-                                    </td>
-                                </tr>
-                            </table>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_01.jpg" alt="HELP AG NETSCOUT Logos" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
-                </table>
-            </td>
-        </tr>
-        
-        <!-- Executive Discussion Text -->
-        <tr>
-            <td align="center" style="padding: 30px 40px 10px 40px;" class="mobile-padding">
-                <p style="margin: 0; font-size: 16px; color: #333333;">Executive Discussion, Lunch & Networking</p>
-            </td>
-        </tr>
-        
-        <!-- Rethink DDoS Resilience -->
-        <tr>
-            <td align="center" style="padding: 15px 40px 30px 40px;" class="mobile-padding">
-                <h3 style="margin: 0; font-size: 28px; color: #e31e24; font-weight: bold;">Rethink DDoS Resilience.</h3>
-            </td>
-        </tr>
-        
-        <!-- Register Now Button -->
-        <tr>
-            <td align="center" style="padding: 20px 40px 50px 40px;" class="mobile-padding">
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                    
+                    <!-- Image 02 - Executive Roundtable Title -->
                     <tr>
-                        <td align="center" bgcolor="#e31e24" style="border-radius: 25px;">
-                            <a href="https://www.helpag.com/netscout-ddos/" target="_blank" style="display: inline-block; padding: 18px 50px; font-size: 16px; font-weight: bold; color: #ffffff; text-decoration: none; border-radius: 25px; text-transform: uppercase; letter-spacing: 1px;">REGISTER NOW</a>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_02.jpg" alt="Executive Roundtable" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
-                </table>
-            </td>
-        </tr>
-        
-        <!-- Footer Spacer -->
-        <tr>
-            <td style="padding: 30px 40px 40px 40px;" class="mobile-padding">
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px solid #e0e0e0;">
+                    
+                    <!-- Image 03 - Main Title DDoS Resilience -->
                     <tr>
-                        <td style="padding-top: 30px;" align="center">
-                            <p style="margin: 0; font-size: 12px; color: #999999;">© 2026 HELP AG & NETSCOUT. All rights reserved.</p>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_03.jpg" alt="DDoS Resilience Beyond Bandwidth" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
+                    
+                    <!-- Image 04 - Description Text -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_04.jpg" alt="Executive Conversation Description" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
+                    <!-- Image 05 - Network Diagram -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_05.jpg" alt="Network Infrastructure Diagram" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
+                    <!-- Image 06 - Statistics 58 days -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_06.jpg" alt="Longest DDoS Attack Statistics" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
+                    <!-- Image 07 - Roundtable Focus Points -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_07.jpg" alt="Roundtable Focus Areas" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
+                    <!-- Image 08 - Choose Your Roundtable Abu Dhabi -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_08.jpg" alt="Abu Dhabi Event Details" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
+                    <!-- Image 09 - Register Now Button (Clickable) -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <a href="https://www.helpag.com/netscout-ddos/" target="_blank" style="text-decoration: none; display: block;">
+                                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_09.jpg" alt="Register Now - Rethink DDoS Resilience" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto; cursor: pointer;">
+                            </a>
+                        </td>
+                    </tr>
+                    
                 </table>
+                <!-- End Email Container -->
+                
             </td>
         </tr>
-        
     </table>
+    <!-- End Main Container -->
+    
 </body>
 </html>
