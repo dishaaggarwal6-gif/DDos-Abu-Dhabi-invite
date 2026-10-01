@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="x-apple-disable-message-reformatting">
-    <title>DDoS Resilience Beyond Bandwidth - Executive Roundtable</title>
+    <title>DDoS Resilience Beyond Bandwidth</title>
     
     <!--[if mso]>
     <noscript>
@@ -39,7 +39,6 @@
         @media only screen and (max-width: 650px) {
             .container {
                 width: 100% !important;
-                max-width: 100% !important;
             }
             .img-max {
                 width: 100% !important;
@@ -51,86 +50,82 @@
 </head>
 <body style="margin: 0; padding: 0; background-color: #ffffff; font-family: Arial, sans-serif;">
     
-    <!-- Main Container -->
     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #ffffff;">
         <tr>
             <td align="center" style="padding: 0;">
                 
-                <!-- Email Container - 650px width -->
-                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="650" class="container" style="width: 650px; max-width: 650px; margin: 0 auto;">
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="650" class="container" style="width: 650px; max-width: 650px;">
                     
-                    <!-- Image 01 - Header Logos -->
+                    <!-- Image 01 - Logo Header -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_01.jpg" alt="HELP AG NETSCOUT Logos" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_01.jpg" alt="HELP AG NETSCOUT" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 02 - Executive Roundtable Title -->
+                    <!-- Image 02 - Title Section -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_02.jpg" alt="Executive Roundtable" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_02.jpg" alt="DDoS Resilience Beyond Bandwidth" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 03 - Main Title DDoS Resilience -->
+                    <!-- Image 03 - Network Diagram -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_03.jpg" alt="DDoS Resilience Beyond Bandwidth" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_03.jpg" alt="Network Infrastructure" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 04 - Description Text -->
+                    <!-- Image 04 - Statistics -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_04.jpg" alt="Executive Conversation Description" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_04.jpg" alt="58 days 23 hours" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 05 - Network Diagram -->
+                    <!-- Image 05 - Roundtable Focus -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_05.jpg" alt="Network Infrastructure Diagram" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_05.jpg" alt="Roundtable Focus" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 06 - Statistics 58 days -->
+                    <!-- Image 06 - Abu Dhabi Venue -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_06.jpg" alt="Longest DDoS Attack Statistics" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_06.jpg" alt="Abu Dhabi Event" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 07 - Roundtable Focus Points -->
+                    <!-- Image 07 - Executive Discussion -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_07.jpg" alt="Roundtable Focus Areas" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_07.jpg" alt="Rethink DDoS Resilience" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
                         </td>
                     </tr>
                     
-                    <!-- Image 08 - Choose Your Roundtable Abu Dhabi -->
-                    <tr>
-                        <td style="padding: 0; margin: 0; line-height: 0;">
-                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_08.jpg" alt="Abu Dhabi Event Details" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto;">
-                        </td>
-                    </tr>
-                    
-                    <!-- Image 09 - Register Now Button (Clickable) -->
+                    <!-- Image 08 - Register Now Button (Clickable) -->
                     <tr>
                         <td style="padding: 0; margin: 0; line-height: 0;">
                             <a href="https://www.helpag.com/netscout-ddos/" target="_blank" style="text-decoration: none; display: block;">
-                                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_09.jpg" alt="Register Now - Rethink DDoS Resilience" width="650" class="img-max" style="display: block; border: 0; outline: none; text-decoration: none; width: 100%; max-width: 650px; height: auto; cursor: pointer;">
+                                <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_08.jpg" alt="Register Now" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto; cursor: pointer;">
                             </a>
                         </td>
                     </tr>
                     
+                    <!-- Image 09 - Footer/Spacer -->
+                    <tr>
+                        <td style="padding: 0; margin: 0; line-height: 0;">
+                            <img src="https://raw.githubusercontent.com/dishaaggarwal6-gif/DDos-Abu-Dhabi-invite/main/ddos-invite-abu-dhabi_09.jpg" alt="" width="650" class="img-max" style="display: block; border: 0; outline: none; width: 100%; max-width: 650px; height: auto;">
+                        </td>
+                    </tr>
+                    
                 </table>
-                <!-- End Email Container -->
                 
             </td>
         </tr>
     </table>
-    <!-- End Main Container -->
     
 </body>
 </html>
